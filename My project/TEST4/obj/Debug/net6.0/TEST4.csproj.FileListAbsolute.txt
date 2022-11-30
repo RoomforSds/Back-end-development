@@ -1,0 +1,180 @@
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\appsettings.Development.json
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\appsettings.json
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\TEST4.exe
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\TEST4.deps.json
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\TEST4.runtimeconfig.json
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\TEST4.pdb
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\Humanizer.dll
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\MySqlConnector.dll
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\obj\Debug\net6.0\TEST4.csproj.AssemblyReference.cache
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\obj\Debug\net6.0\TEST4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\obj\Debug\net6.0\TEST4.AssemblyInfoInputs.cache
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\obj\Debug\net6.0\TEST4.AssemblyInfo.cs
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\obj\Debug\net6.0\TEST4.csproj.CoreCompileInputs.cache
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\obj\Debug\net6.0\TEST4.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\obj\Debug\net6.0\TEST4.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\obj\Debug\net6.0\staticwebassets.build.json
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\obj\Debug\net6.0\staticwebassets.development.json
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\obj\Debug\net6.0\scopedcss\bundle\TEST4.styles.css
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\obj\Debug\net6.0\TEST4.csproj.CopyComplete
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\obj\Debug\net6.0\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\obj\Debug\net6.0\refint\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\obj\Debug\net6.0\TEST4.pdb
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\obj\Debug\net6.0\TEST4.genruntimeconfig.cache
+D:\Study\Visual stduio2022\VS项目\TEST4\TEST4\obj\Debug\net6.0\ref\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\appsettings.Development.json
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\appsettings.json
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\TEST4.exe
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\TEST4.deps.json
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\TEST4.runtimeconfig.json
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\TEST4.pdb
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\Humanizer.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\MySqlConnector.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\obj\Debug\net6.0\TEST4.csproj.AssemblyReference.cache
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\obj\Debug\net6.0\TEST4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\obj\Debug\net6.0\TEST4.AssemblyInfoInputs.cache
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\obj\Debug\net6.0\TEST4.AssemblyInfo.cs
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\obj\Debug\net6.0\TEST4.csproj.CoreCompileInputs.cache
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\obj\Debug\net6.0\TEST4.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\obj\Debug\net6.0\TEST4.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\obj\Debug\net6.0\staticwebassets.build.json
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\obj\Debug\net6.0\staticwebassets.development.json
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\obj\Debug\net6.0\scopedcss\bundle\TEST4.styles.css
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\obj\Debug\net6.0\TEST4.csproj.CopyComplete
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\obj\Debug\net6.0\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\obj\Debug\net6.0\refint\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\obj\Debug\net6.0\TEST4.pdb
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\obj\Debug\net6.0\TEST4.genruntimeconfig.cache
+D:\Study\Visual stduio2022\VS项目\WebAPI\TEST4\obj\Debug\net6.0\ref\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\appsettings.Development.json
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\appsettings.json
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\TEST4.exe
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\TEST4.deps.json
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\TEST4.runtimeconfig.json
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\TEST4.pdb
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\Humanizer.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\MySqlConnector.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\obj\Debug\net6.0\TEST4.csproj.AssemblyReference.cache
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\obj\Debug\net6.0\TEST4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\obj\Debug\net6.0\TEST4.AssemblyInfoInputs.cache
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\obj\Debug\net6.0\TEST4.AssemblyInfo.cs
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\obj\Debug\net6.0\TEST4.csproj.CoreCompileInputs.cache
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\obj\Debug\net6.0\TEST4.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\obj\Debug\net6.0\TEST4.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\obj\Debug\net6.0\staticwebassets.build.json
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\obj\Debug\net6.0\staticwebassets.development.json
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\obj\Debug\net6.0\scopedcss\bundle\TEST4.styles.css
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\obj\Debug\net6.0\TEST4.csproj.CopyComplete
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\obj\Debug\net6.0\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\obj\Debug\net6.0\refint\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\obj\Debug\net6.0\TEST4.pdb
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\obj\Debug\net6.0\TEST4.genruntimeconfig.cache
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本\TEST4\obj\Debug\net6.0\ref\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\appsettings.Development.json
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\appsettings.json
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\TEST4.exe
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\TEST4.deps.json
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\TEST4.runtimeconfig.json
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\TEST4.pdb
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\Humanizer.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\MySqlConnector.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\obj\Debug\net6.0\TEST4.csproj.AssemblyReference.cache
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\obj\Debug\net6.0\TEST4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\obj\Debug\net6.0\TEST4.AssemblyInfoInputs.cache
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\obj\Debug\net6.0\TEST4.AssemblyInfo.cs
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\obj\Debug\net6.0\TEST4.csproj.CoreCompileInputs.cache
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\obj\Debug\net6.0\TEST4.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\obj\Debug\net6.0\TEST4.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\obj\Debug\net6.0\staticwebassets.build.json
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\obj\Debug\net6.0\staticwebassets.development.json
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\obj\Debug\net6.0\scopedcss\bundle\TEST4.styles.css
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\obj\Debug\net6.0\TEST4.csproj.CopyComplete
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\obj\Debug\net6.0\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\obj\Debug\net6.0\refint\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\obj\Debug\net6.0\TEST4.pdb
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\obj\Debug\net6.0\TEST4.genruntimeconfig.cache
+D:\Study\Visual stduio2022\VS项目\WebAPI - 副本 - 副本\TEST4\obj\Debug\net6.0\ref\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\appsettings.Development.json
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\appsettings.json
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\TEST4.exe
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\TEST4.deps.json
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\TEST4.runtimeconfig.json
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\TEST4.pdb
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\Humanizer.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\MySqlConnector.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\obj\Debug\net6.0\TEST4.csproj.AssemblyReference.cache
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\obj\Debug\net6.0\TEST4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\obj\Debug\net6.0\TEST4.AssemblyInfoInputs.cache
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\obj\Debug\net6.0\TEST4.AssemblyInfo.cs
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\obj\Debug\net6.0\TEST4.csproj.CoreCompileInputs.cache
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\obj\Debug\net6.0\TEST4.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\obj\Debug\net6.0\TEST4.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\obj\Debug\net6.0\staticwebassets.build.json
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\obj\Debug\net6.0\staticwebassets.development.json
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\obj\Debug\net6.0\scopedcss\bundle\TEST4.styles.css
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\obj\Debug\net6.0\TEST4.csproj.CopyComplete
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\obj\Debug\net6.0\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\obj\Debug\net6.0\refint\TEST4.dll
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\obj\Debug\net6.0\TEST4.pdb
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\obj\Debug\net6.0\TEST4.genruntimeconfig.cache
+D:\Study\Visual stduio2022\VS项目\Ldlyyds\TEST4\obj\Debug\net6.0\ref\TEST4.dll
